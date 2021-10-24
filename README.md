@@ -1,7 +1,14 @@
 # Sudoku Solver
 
-## Technology used : React JS
-## Deployed in : Netlify
+## Technology used : 
+1. FrontEnd => ReactJS, CSS
+2. Deployment => Netlify
+
+## Algorithm Used :
+1. Recursion
+2. Backtracking
+3. Bit masking
+
 ## Website Link : https://sudoku-solver-by-sanjay.netlify.app/
 
 ## Use : 
